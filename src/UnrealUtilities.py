@@ -52,4 +52,4 @@ def ImportMeshAndAnims(meshPath, animDir):
             animPath = os.path.join(animDir, filename)
             ImportAnim(mesh, animPath)
 
-ImportMeshAndAnims("E:/Profile Redirect/jmhopkin/Desktop/Technical Testing MayaToUE/AlexMeshTest.fbx", "E:/Profile Redirect/jmhopkin/Desktop/Technical Testing MayaToUE/anim")
+#ImportMeshAndAnims("E:/Profile Redirect/jmhopkin/Desktop/Technical Testing MayaToUE/AlexMeshTest.fbx", "E:/Profile Redirect/jmhopkin/Desktop/Technical Testing MayaToUE/anim")
